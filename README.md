@@ -1,4 +1,3 @@
-Sure! Here's a basic README.md file for your quiz game project:
 
 ```markdown
 # Quiz Game
