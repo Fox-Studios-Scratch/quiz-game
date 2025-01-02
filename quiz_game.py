@@ -26,6 +26,11 @@ questions = [
         "question": "Who painted the Mona Lisa?",
         "options": ["Pablo Picasso", "Leonardo da Vinci", "Vincent van Gogh", "Michelangelo"],
         "correct_answer": "Leonardo da Vinci"
+    },
+    {
+        "question": "What is the name of the most common kind of colorblindness?",
+        "options": ["Achromatopsia", "Deuteranomaly", "Protanomaly", "Tritanomaly"],
+        "correct_answer": "Deuteranomaly"
     }
 ]
 
