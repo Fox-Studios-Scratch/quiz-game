@@ -36,10 +36,14 @@ python quiz_game.py
 
 Contributions are welcome! If you'd like to add more questions or improve the game in any way, feel free to fork this repository and submit a pull request.
 
+## Changelogs
+- February 14, 2024: V1 | Initial release. Current questions: The First 5 That Are Asked.
+- January 2, 2025: V1.3 | Added a question that focuses on colorblindness.
+
 ## Other Information
 
-©2024 by Fox Studios - Scratch™ 
+©2025 by Fox Studios - Scratch™ 
 
-Our Site: www.foxstudiosscratch.xyz
+Our Site: [www.foxstudiosscratch.xyz](https://sites.google.com/view/fox-studios-scratch/)
 Our Discord: https://discord.gg/JfRT7jqA6a
 
